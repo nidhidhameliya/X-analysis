@@ -100,12 +100,20 @@ Use transformer models (BERT/RoBERTa) for better sentiment classification
 
 # 🙋‍♀️ Developed by
 Nidhi Dhameliya
-Data Analytics and Machine Learning Intern
 📧 [nidhidhameliya2004@gmail.com]
 🔗 [https://www.linkedin.com/in/nidhi-dhameliya-866bb7270/]
 
 
 
+
 ![Screenshot 2025-04-10 010654](https://github.com/user-attachments/assets/5cdf54ae-3cef-41f2-a0fb-0e0fddb1f520)
+
+
+![Screenshot 2025-04-10 012736](https://github.com/user-attachments/assets/854509b5-d6c7-4155-97e2-e5052c5cf741)
+
+
+![Screenshot 2025-04-10 010800](https://github.com/user-attachments/assets/237a9fb1-4feb-4630-8848-bfda266ca9da)
+
+
 
 
